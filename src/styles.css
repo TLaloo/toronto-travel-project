@@ -20,6 +20,7 @@ body {
 .img-responsive {
   width: 100%;
   display: block;
+  filter: grayscale(30%) brightness(120%) contrast(133%);
 }
 
 .grid-2-columns {
